@@ -1,1 +1,2 @@
-#files to ignore
+#ignore linter
+.linters.yml

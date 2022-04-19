@@ -1,2 +1,2 @@
-#ignore linter
-.linters.yml
+#ignore test file
+/test.md
